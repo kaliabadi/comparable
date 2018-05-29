@@ -2,6 +2,7 @@
     "name": "comparable",
     "version": "0.0.1",
     "dependencies": {
+        "looks-same": "^3.3.0",
         "resemblejs": "^2.10.3",
         "selenium-webdriver": "^4.0.0-alpha.1"
     }

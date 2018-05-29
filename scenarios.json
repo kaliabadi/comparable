@@ -9,7 +9,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -26,7 +26,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -42,7 +42,7 @@
       "delay": 10000,
       "selectorExpansion": true,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -57,7 +57,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored",
@@ -100,7 +100,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -116,7 +116,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -131,7 +131,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -147,7 +147,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -163,7 +163,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -179,7 +179,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -195,7 +195,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "gmap-element",
         "#ad-article-inline",
         "#ad-header",
@@ -212,7 +212,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -228,7 +228,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -244,7 +244,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -260,7 +260,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -276,7 +276,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -292,7 +292,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -308,7 +308,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -324,7 +324,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -340,7 +340,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -356,7 +356,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -372,7 +372,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -388,7 +388,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "gmap-element",
         "#ad-article-inline",
         "#ad-header",
@@ -404,7 +404,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
@@ -420,7 +420,7 @@
       "selectorExpansion": true,
       "delay": 10000,
       "removeSelectors": [
-        ".CookieMessage",
+        
         "#ad-article-inline",
         "#ad-header",
         "#ad-article-sponsored"
