@@ -5,428 +5,259 @@
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/profile/fiona-hamilton",
-      "readySelector": ".GlobalFooter-companyInfo",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 3.0,
-      "requireSameDimensions": true
+      ]
     },
     {
       "label": "Profiles_No_Article",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/profile/matthew-lowry",
-      "readySelector": ".GlobalFooter-companyInfo",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 3.0,
-      "requireSameDimensions": true
-    },
-    {
-      "label": "article_image_types",
-      "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url":
-        "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/3107c018-cb60-11e4-81dd-064fe933cd41",
-      "delay": 10000,
-      "selectorExpansion": true,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      ]
     },
     {
       "label": "edition_homepage",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/edition/2015-03-23",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored",
-        "#ad-news",
-        "#ad-world",
-        "#ad-opinion",
-        "#ad-business",
-        "#ad-law",
-        "#ad-sport",
-        "#ad-ireland",
-        "#ad-scotland",
-        "#ad-times2",
-        "#ad-puzzles"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true,
-      "selectors": [
-        ".GlobalNav",
-        ".Section--news",
-        ".Section--world",
-        ".Section--opinion",
-        ".Section--business",
-        ".Section--law",
-        ".Section--recommendedReads",
-        ".Section--register",
-        ".Section--sport",
-        ".Section--ireland",
-        ".Section--scotland",
-        ".Section--puzzles",
-        ".Section--groupedPuff",
-        "#section-times2",
-        ".Section--todaysMagazines",
-        "footer.GlobalFooter"
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored",
+        "ad-news",
+        "ad-world",
+        "ad-opinion",
+        "ad-business",
+        "ad-law",
+        "ad-sport",
+        "ad-ireland",
+        "ad-scotland",
+        "ad-times2",
+        "ad-puzzles"
       ]
     },
     {
       "label": "past_six_days",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/past-six-days",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-header"
+      ]
     },
     {
       "label": "logged_out_article",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/_TP_/article/3107c018-cb60-11e4-81dd-064fe933cd41",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "magazine",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/style",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-header"
+      ]
     },
     {
       "label": "Default_Template",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/edition/news/british-trio-stopped-on-the-way-to-join-isis-57nwljmbn",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Major_News_Default",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/past-six-days/2015-03-22/news/labour-will-make-us-as-bad-as-france-gf35ht9ds",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Major_News_Defcon1",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/fee-paying-chinese-help-state-schools-fight-cuts-z9znbg9p2",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Full_Width_Media",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/2f76384f-6d70-4ead-ba53-5e13751c6b7b",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
         "gmap-element",
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Opinion_template",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/edition/comment/lee-kuan-yews-singapore-may-be-autocratic-but-at-least-the-escalators-work-ckl7nxfpc",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [ 
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Default_TheTimes",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/the-times-magazine/strictly-come-danczuk-7h7cwrhm6",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Default_TheSundayTimes",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/the-sunday-times-magazine/strictly-come-danczuk-3drn0vqz7",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Default_Culture",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/culture/is-the-fear-of-being-offensive-killing-free-speech-gp3c6frsv",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [        
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Default_Style",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/style/inner-strength-md8b8c8pn",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [ 
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Columnist_TheTimes",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/the-times-magazine/fashion-the-italian-job-06mt8kgxp",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [ 
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Columnist_TheSundayTimes",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/the-sunday-times-magazine/fashion-the-italian-job-k3qp706zs",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [        
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_Columnist_Style",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/style/fashion-the-italian-job-wdfjk6m3j",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [ 
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_In-depth_Culture",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/culture/the-nerds-a-superhero-00xf26gpz",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_In-depth_TheSundayTimes",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/the-sunday-times-magazine/the-battle-of-the-bulge-t7nvgw3h2",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Supplement_In-depth_Style",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/magazine/style/the-sex-baron-of-belgravia-3slplbj6c",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [        
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Comments",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/edition/news/top-graduates-drawn-to-jobs-in-social-work-0npt9r70h",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
+      "removeSelectors": [        
         "gmap-element",
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     },
     {
       "label": "Topics",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/topic/islington",
-      "selectorExpansion": true,
-      "delay": 10000,
       "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      ]
     },
     {
       "label": "Article_With_Topics",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url":
         "http://cps-render-ci.elb.tnl-dev.ntch.co.uk/article/splits-in-europe-may-end-russian-sanctions-kstdpq5rn",
-      "selectorExpansion": true,
-      "delay": 10000,
-      "removeSelectors": [
-        
-        "#ad-article-inline",
-        "#ad-header",
-        "#ad-article-sponsored"
-      ],
-      "misMatchThreshold": 6.0,
-      "requireSameDimensions": true
+      "removeSelectors": [        
+        "ad-article-inline",
+        "ad-header",
+        "ad-article-sponsored"
+      ]
     }
   ]
 }
